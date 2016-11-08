@@ -1,0 +1,3 @@
+We used Code::Blocks. The program is for Windows 32-bit and 64-bit.
+
+It may work on the *nix systems if compile correctly.

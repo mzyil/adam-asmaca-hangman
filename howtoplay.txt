@@ -1,0 +1,2 @@
+It's a classical hangman, but be aware that every three dashes mean only one character in the word. Input THE NUMBER of the character
+not the character.
